@@ -19,4 +19,4 @@ electron-packager . --overwrite --platform=darwin --arch=x64 --prune=true --out=
 
 Screenshot
 --
-![Alt text](/screenshot.png?raw=true "screenshot")
+![Screenshot](/screenshot.png?raw=true "screenshot")
